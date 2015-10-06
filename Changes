@@ -1,5 +1,10 @@
 Revision history for App-DistroWatchUtils
 
+0.03    2015-10-06 (PERLANCAR)
+
+	- Handle utf8 data.
+
+
 0.02    2015-10-06 (PERLANCAR)
 
 	- Update to WWW::DistroWatch::ReleaseInfo 0.03 (add list-distros,
