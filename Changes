@@ -1,5 +1,12 @@
 Revision history for App-DistroWatchUtils
 
+0.05    2016-01-18 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild to fix POD section ordering.
+
+
 0.04    2015-10-06 (PERLANCAR)
 
 	- [Bugfix] Enable utf8 handling for get-distro-releases-info too.
